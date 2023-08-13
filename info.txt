@@ -1,0 +1,10 @@
+Font : avenir,helvetica,sans-serif
+Color : #1b8381
+
+Banner Section: https://wordpress.zozothemes.com/igual/home-8/ && https://wordpress.zozothemes.com/igual/home-2/
+
+About & Brand Slider Section: https://demo.artureanec.com/themes/consultum/home-5/
+
+Work Section Section: https://wordpress.zozothemes.com/igual/home-2/
+
+Counter Section && Footer: https://wordpress.zozothemes.com/igual/home-8/
