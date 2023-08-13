@@ -484,7 +484,7 @@ Color Code
 .testimonial_style_three .testimonial_slide_item_three .t-icon-bg i,
 .testimonial_content .testimonial_text .t-icon-bg i,
 .subscribe_content .testimonial_text .t-icon-bg i {
-  color: #a58b54;
+  color: #1b8381;
   font-size: 180px;
 }
 
@@ -551,7 +551,7 @@ Color Code
 .slider_style_two .slider_contect_box .slider_btn li:after {
   content: "";
   position: absolute;
-  background-color: #342b50;
+  background-color: #125957;
   height: 0%;
   width: 100%;
   top: 0;
@@ -584,7 +584,7 @@ Color Code
   top: auto;
   bottom: 0;
   height: 100%;
-  background: #000;
+  background: #125957;
 }
 
 .breadcrumb_section .breadcrumb_watermark,
